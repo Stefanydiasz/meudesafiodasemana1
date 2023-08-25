@@ -1,0 +1,27 @@
+#header{
+    background-color: rgb(213, 240, 200);
+    padding-top: 34px;
+    margin: -8px;
+    text-align: right;
+    word-spacing: 4px;
+
+}
+#content{
+    text-align: center;
+    color: rgb(97, 145, 26);
+    ;
+}
+#Áreas{
+    color: rgb(97, 145, 26);
+text-indent: 10px;
+text-align: justify;}
+#Solucao{ color: rgb(97, 145, 26);
+text-align: center;}
+
+#lista{color: rgb(97, 145, 26);
+text-align: justify;}
+
+#footer{ text-align: center;
+background-color: rgb(213, 240, 200);
+margin: -8px;
+padding-bottom: 9px;}
